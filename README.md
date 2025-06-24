@@ -62,8 +62,10 @@
   <br>
   
 <div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My satistcs
-</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Statistics
+</div>  <br>
+
+
  
 | ![Miyuranga's github stats](https://github-readme-stats.vercel.app/api?username=Miyuranga-Rajakaruna&show_icons=true&theme=tokyonight) | ![Miyuranga GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
